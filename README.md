@@ -6,7 +6,9 @@
 + consultant assistance ChatGPT
 
 ### How to use:
+Just follow the instructions!
 With the help of this application, an area of ​​the screen containing text in English or Bulgarian can be captured. The text in the image will be extracted using Tesseract / optical character recognition (OCR) software / and passed to models such as ChatGPT, Mistral or others, which in turn will generate a result on a question-answer basis.
+Additionally, there are options where additional API keys and Mistral and Hugging Face models can be added.
 
 ### Info:
 Image Text Question Answering" (ITQA). This is a process where text is extracted from an image, then questions are asked based on that text to ChatGPT, Mistral and similar models that provide answers. ITQA combines technologies such as optical character recognition (OCR) and natural language processing (NLP).
