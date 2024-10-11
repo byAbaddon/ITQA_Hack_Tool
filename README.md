@@ -32,8 +32,12 @@ This can be accomplished using models such as; ChatGPT, Mistral or other special
 soon
 
 ## Screenshots:
-
-#### --------------------------------------------------------------------
+![1](https://github.com/user-attachments/assets/af3dff7b-5ec3-4eef-b9fc-9023818676c7)
+![2](https://github.com/user-attachments/assets/83de25bd-c238-4477-a3f7-4e6a1df6fc25)
+![3](https://github.com/user-attachments/assets/56980aac-80f3-45cc-ac69-ccaeba5e3fcf)
+![4](https://github.com/user-attachments/assets/0d16a6c3-f258-4aa9-85d3-d978f0b3b4ae)
+![5](https://github.com/user-attachments/assets/cc96bf02-1d62-44d8-a252-9596d0ae98b3)
+![4](https://github.com/user-attachments/assets/e4b1ac2d-52cc-4089-b628-6479fe2ab87e)
 
 
 #### Year:
