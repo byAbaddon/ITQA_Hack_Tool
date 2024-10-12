@@ -29,7 +29,7 @@ This can be accomplished using models such as; ChatGPT, Mistral or other special
 
 
 ## Short video intro:
-soon
+https://youtu.be/_rKe64aeEVE
 
 ## Screenshots:
 ![1](https://github.com/user-attachments/assets/af3dff7b-5ec3-4eef-b9fc-9023818676c7)
