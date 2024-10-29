@@ -28,7 +28,7 @@ Generate answers based on the questions and the available text.
 This can be accomplished using models such as; ChatGPT, Mistral or other specialized NLP models.
 
 ## Download Windows exe
-
+https://github.com/byAbaddon/ITQA_Hack_Tool/releases
 
 ## Short video intro:
 https://youtu.be/_rKe64aeEVE
