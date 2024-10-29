@@ -27,6 +27,8 @@ Question Answering:
 Generate answers based on the questions and the available text.
 This can be accomplished using models such as; ChatGPT, Mistral or other specialized NLP models.
 
+## Download Windows exe
+
 
 ## Short video intro:
 https://youtu.be/_rKe64aeEVE
